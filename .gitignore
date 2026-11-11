@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+.venv
+.nox
+.ruff_cache
+uv.lock
+src/samva/__pycache__/
+__pycache__/noxfile.cpython-312.pyc
+*.ppm
